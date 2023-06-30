@@ -1,4 +1,4 @@
-#  YOLO V3 Object 
+#  YOLO V3 Object Detection on Images
 
 Import necessary libraries: 
 The code starts by importing the required libraries, including cv2 for image processing and numpy for numerical operations.
